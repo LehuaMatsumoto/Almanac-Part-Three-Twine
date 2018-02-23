@@ -1,4 +1,5 @@
 # Almanac-Part-Three-Twine
+July 2017
 
 A project to test the capabilities/possibilities of Twine.
 
